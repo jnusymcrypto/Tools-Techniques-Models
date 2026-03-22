@@ -33,7 +33,7 @@
 
 - principle
 
-通过存储 Sbox 所对应的 input solution, 其对应于明文 $\#pairs=N$ 在此处的空间大小, 对应到 output solution, 会有一部分输入不满足, 从而可以提前筛掉部分 pairs. 过滤后的 $\#pairs'=N'$.
+通过存储 Sbox 所对应的 input solution, 其对应于明文对数量为 $N$ 在此处的空间大小, 对应到 output solution, 会有一部分输入不满足, 从而可以提前筛掉部分 pairs. 过滤后明文对数量变为 $N'$.
 
 * example
 
