@@ -5,7 +5,7 @@
 >
 > Section 3 Modeling the key recovery problem
 >
-> 解释其所给出的 三个方法
+> 解释其所给出的 两个方法
 
 
 
@@ -18,6 +18,8 @@
 一次猜测对应于一个 **子图**， 将问题转化为求
 
 例子 (类 GIFT, 下述例子均为该例子)：
+
+<font color=blue> 蓝色 </font> 为未知差分, 白色 (三角) 为固定差分.
 
 <img width="576" height="470" alt="image" src="https://github.com/user-attachments/assets/f8acee08-8124-4867-8335-a6a1712aa5a6" />
 
