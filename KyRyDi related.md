@@ -31,7 +31,7 @@
 
 例子：图中蓝色对应的 solution 包括 $S_{0,1}, S_{0,3}$ 的 solution 和 $S_{2,0}$ 的 solution (左侧 2 bit 截断).
 
-### Method 1. pre-sieving
+### Method 1. Pre-sieving
 
 - principle
 
