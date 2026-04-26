@@ -8,7 +8,7 @@
 
 ## CP-SAT
 
-例子: [Demo.mzn](https://github.com/SymCNote/Tools-Techniques-Models/blob/main/Demo.mzn), [para.dzn](https://github.com/SymCNote/Tools-Techniques-Models/blob/main/para.dzn)
+例子: [Demo.mzn](https://github.com/SymCNote/Tools-Techniques-Models/blob/main/codes/Demo.mzn), [para.dzn](https://github.com/SymCNote/Tools-Techniques-Models/blob/main/codes/para.dzn)
 
 ### 1. 参数 (常量/变量*) 定义
 
