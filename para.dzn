@@ -1,7 +1,0 @@
-
-
-
-INT_1 = 10;
-BOOL_1 = false;
-LIST_1 = [1,2,3];
-LIST_2 = array1d(0..2,[1,2,3]);
