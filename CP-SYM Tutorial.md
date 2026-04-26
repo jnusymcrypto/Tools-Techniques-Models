@@ -24,7 +24,7 @@
   ```
   % integer parameters
   int: INT_1;              % 必须外部传入
-  int: INT_2 = 128;        % 有默认值，可被覆盖
+  int: INT_2 = 128;        % 有默认值，不可被覆盖
   % ---
   output[show(INT_1) ++ "\n"];
   output[show(INT_2) ++ "\n"];
