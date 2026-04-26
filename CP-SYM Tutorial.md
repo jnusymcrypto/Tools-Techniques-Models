@@ -8,6 +8,8 @@
 
 ## CP-SAT
 
+例子: [Demo.mzn](https://github.com/SymCNote/Tools-Techniques-Models/blob/main/Demo.mzn), [para.dzn](https://github.com/SymCNote/Tools-Techniques-Models/blob/main/para.dzn)
+
 ### 1. 参数 (常量/变量*) 定义
 
 **注意:** 
@@ -282,6 +284,18 @@ solve satisfy;
 ```
 
 可用 `weight1*obj1 + weight2*obj2` 求多目标
+
+
+
+命令行调用求解:
+
+```
+minizinc --solver CP-SAT[求解器] -p 16[线程数] -D 'X=1'[传入参数] 'Model.mzn'[求解模型] 'Result,txt'[输出文件]
+```
+
+```
+minizinc --solver CP-SAT -p 8 -D "INT_0 = 0" ".\Demo.mzn" > "res.txt"
+```
 
 ---
 
